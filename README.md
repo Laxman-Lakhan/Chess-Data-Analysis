@@ -1,4 +1,6 @@
-# Chess-Data-Analysis
+# <img width = 35 src ="https://github.com/Laxman-Lakhan/Chess-Data-Analysis/blob/e386b712c210002d2bd85f8a7b6fa47ea9e103d0/Images/Lichess-Removebg.png"> Chess-Data-Analysis
+
+
 
 #### Data Extraction & Cleaning
 - Used Berserk (python client for Lichess API) to extract the data
